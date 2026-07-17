@@ -1,0 +1,156 @@
+CERN Open Hardware Licence Version 2 - Permissive
+
+
+Preamble
+
+CERN has developed this licence to promote collaboration among
+hardware designers and to provide a legal tool which supports the
+freedom to use, study, modify, share and distribute hardware designs
+and products based on those designs. Version 2 of the CERN Open
+Hardware Licence comes in three variants: this licence, CERN-OHL-P
+(permissive); and two reciprocal licences: CERN-OHL-W (weakly
+reciprocal) and CERN-OHL-S (strongly reciprocal).
+
+The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it,
+in unmodified form only.
+
+Use of this Licence does not imply any endorsement by CERN of any
+Licensor or their designs nor does it imply any involvement by CERN
+in their development.
+
+
+1 Definitions
+
+  1.1 'Licence' means this CERN-OHL-P.
+
+  1.2 'Source' means information such as design materials or digital
+      code which can be applied to Make or test a Product or to
+      prepare a Product for Made, use, sale, manufacture, or
+      sublicense. Source includes schematics, broad designs,
+      photomasks, layouts, bills of materials, structural and
+      mechanical models, CAD and CAE files, assembly and test
+      instructions, firmware source code, and related intellectual
+      property.
+
+  1.3 'Object' means information such as design materials or digital
+      code which can be applied to Make or test a Product or to
+      prepare a Product for Made, use, sale, manufacture, or
+      sublicense, in the form of a physical object, prototype,
+      manufactured Product, or component part.
+
+  1.4 'Product' means any item, component, part, device, or system,
+      whether physical, virtual, intangible, or any other form.
+
+  1.5 'Make' means to create, manufacture, produce, or assemble a
+      Product, whether physically, virtually, or otherwise.
+
+  1.6 'Available Component' means any part, sub-assembly, library,
+      or design tool which is made Available under a licence that
+      permits its use without restrictions, including any open
+      source software licence.
+
+  1.7 'Available' means that a person can lawfully obtain rights to
+      a Component through a generally recognised public distribution
+      channel, or through a reasonable commercial arrangement.
+
+  1.8 'External Material' means anything (including Source or
+      Object) which is not covered by the obligations of this
+      Licence.
+
+  1.9 'You' (and 'Your') means any natural or legal person who
+      exercises any rights under this Licence.
+
+ 1.10 'Licensor' means the natural or legal person who grants the
+      Licence to You.
+
+ 1.11 'Licensee' means any natural or legal person who receives any
+      Source, Object, or Product under the terms of this Licence.
+
+
+2 Applicability
+
+  2.1 This Licence governs the use, copying, modification, and
+      distribution of the Source, Object, and Products. You may use,
+      copy, modify, and distribute the Source, Object, and Products,
+      provided You comply with the terms of this Licence.
+
+  2.2 This Licence is without prejudice to any other licence or
+      agreement that You may have with Licensor.
+
+
+3 Permissions
+
+  3.1 You are granted a perpetual, worldwide, royalty-free,
+      non-exclusive licence to:
+        a) Make, use, sell, offer to sell, import, distribute, and
+           otherwise exploit the Source, Object, and Products;
+        b) Modify the Source and Object;
+        c) Sublicense the Source, Object, and Products.
+
+  3.2 These permissions cover any patents, design rights, and
+      similar rights to the extent necessary to exercise the
+      permissions granted in this Licence.
+
+  3.3 These permissions do not include the right to sublicense
+      patents, design rights, or similar rights held by the Licensor,
+      except to the extent necessary to exercise the permissions
+      granted in this Licence.
+
+
+4 Conditions
+
+  4.1 If You distribute the Source, You must:
+        a) retain all copyright, patent, trade mark, and
+           attribution notices present in the Source;
+        b) Include a copy of this Licence, or incorporate it in
+           the Source.
+
+  4.2 If You distribute Object or Product, You must:
+        a) retain all copyright, patent, trade mark, and
+           attribution notices present in the Source;
+        b) include a copy of this Licence, or incorporate it in
+           the Object or Product documentation.
+
+  4.3 You may satisfy the requirements of this section by providing
+      a hyperlink or other reference to the Licence.
+
+
+5 Disclaimer of Liability
+
+  5.1 TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOURCE, OBJECT,
+      AND PRODUCTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+      KIND. THE LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR
+      IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+      MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+      NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR
+      ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+      OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+      CONNECTION WITH THE SOURCE, OBJECT, PRODUCTS, OR THE USE OR
+      OTHER DEALINGS IN THE SOURCE, OBJECT, OR PRODUCTS.
+
+
+6 Termination
+
+  6.1 This Licence applies for the term of the copyright and
+      similar rights licensed here. However, if You fail to comply
+      with this Licence, then Your rights under this Licence
+      terminate automatically. Upon termination, You must cease
+      using the Source, Object, and Products, and destroy all
+      copies. These obligations survive termination.
+
+
+7 General
+
+  7.1 If any provision of this Licence is held to be invalid or
+      unenforceable, the remaining provisions shall remain in full
+      force and effect.
+
+  7.2 This Licence does not affect any rights You may have under
+      applicable law, including fair use, fair dealing, or any
+      other copyright exception or limitation.
+
+  7.3 This Licence shall be governed by and construed in accordance
+      with the laws of Switzerland, without regard to its conflict
+      of laws principles. Any dispute arising under or in connection
+      with this Licence shall be subject to the exclusive
+      jurisdiction of the courts of Geneva, Switzerland.
