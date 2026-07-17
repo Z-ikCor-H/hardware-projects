@@ -7,6 +7,9 @@ __Previews/
 # Altium Designer — ECO 操作日志
 Project Logs for */
 
+# Altium Designer — 输出文件（Gerber/DRC/BOM 等，每次修改 PCB 均重新生成）
+Project Outputs for */
+
 # Altium Designer — CAM 文件（可从 PcbDoc 重新生成）
 CAMtastic*.Cam
 
