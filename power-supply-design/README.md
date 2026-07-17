@@ -41,7 +41,6 @@ VBAT+ ──→ [TPS5430 Buck] ──→ VCC5V (5V/3A)
 
 ```
 ├── Power supply design.PrjPcb    # Altium 项目文件
-├── Power supply design.PrjPcbStructure
 ├── dainyuan.SchDoc               # 原理图设计
 ├── dianyuan.PcbDoc               # PCB 设计
 ├── Schlib1.SchLib                # 原理图元件库
@@ -49,14 +48,11 @@ VBAT+ ──→ [TPS5430 Buck] ──→ VCC5V (5V/3A)
 ├── Power supply design.pdf       # 项目输出 PDF
 ├── buck电路元件选型计算.xlsx      # Buck 电路元件参数计算
 ├── 电源模块负载测试.xlsx          # 负载测试数据
-├── Project Outputs for Power supply design/  # Gerber + DRC 报告
-├── References/                   # 芯片数据手册与参考笔记
-│   ├── tps5430.pdf               # TPS5430 数据手册（原版）
-│   ├── tps5430-中文.pdf          # TPS5430 数据手册（中文翻译）
-│   ├── SPX29300.PDF              # SPX29302 数据手册
-│   ├── 二极管分类与应用参考.md
-│   └── 电源拓扑分类与应用参考.md
-└── .gitignore
+├── References/                   # 芯片数据手册
+│   ├── tps5430.pdf
+│   ├── tps5430-中文.pdf
+│   └── SPX29300.PDF
+└── LICENSE                       # CERN-OHL-P v2
 ```
 
 ## 🛠️ 设计要点
@@ -80,4 +76,4 @@ VBAT+ ──→ [TPS5430 Buck] ──→ VCC5V (5V/3A)
 
 ## 📄 许可
 
-本项目为开源硬件设计，仅供学习与参考。
+CERN-OHL-P v2 开源硬件许可证，可自由使用、修改、分发。
