@@ -5,7 +5,7 @@ History/
 __Previews/
 
 # Altium Designer — ECO 操作日志
-Project Logs for Power supply design/
+Project Logs for */
 
 # Altium Designer — CAM 文件（可从 PcbDoc 重新生成）
 CAMtastic*.Cam
@@ -14,11 +14,13 @@ CAMtastic*.Cam
 *.zip
 
 # PCB HTML 预览（自动生成）
-dianyuan.PcbDoc.htm
-
-# 空目录
-实验结果（打印）/
+*.PcbDoc.htm
 
 # Claude AI 本地配置
 .claude/
-References/.claude/
+**/.claude/
+
+# 操作系统临时文件
+Thumbs.db
+.DS_Store
+~$*.xlsx
