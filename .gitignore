@@ -1,0 +1,24 @@
+# Altium Designer — 本地历史备份
+History/
+
+# Altium Designer — 缩略图预览
+__Previews/
+
+# Altium Designer — ECO 操作日志
+Project Logs for Power supply design/
+
+# Altium Designer — CAM 文件（可从 PcbDoc 重新生成）
+CAMtastic*.Cam
+
+# 压缩包（Altium 自动备份 + 手动打包）
+*.zip
+
+# PCB HTML 预览（自动生成）
+dianyuan.PcbDoc.htm
+
+# 空目录
+实验结果（打印）/
+
+# Claude AI 本地配置
+.claude/
+References/.claude/

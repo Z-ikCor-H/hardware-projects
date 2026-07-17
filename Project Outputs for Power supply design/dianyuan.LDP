@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\APP\Altium Designer24\project\Power supply design\dianyuan.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dianyuan-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dianyuan-slotholes.txt|DrillLayers=gtl,gbl
